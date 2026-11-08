@@ -1,0 +1,6 @@
+# Ignore local configuration files with private API keys
+config.js
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
